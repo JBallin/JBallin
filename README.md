@@ -8,7 +8,7 @@ My main open-source project is **[Ballin Scripts](https://github.com/JBallin/bal
 
 Ballin is built on a simple idea: your development environment should be inspectable, repeatable, and safe to evolve — not a pile of invisible state and fragile rituals.
 
-Good tools make the next step obvious.
+*Good tools make the next step obvious.*
 
 That's the philosophy I bring to development environments, CLIs, and AI-assisted workflows: less mystery, better context, and more confidence to keep building.
 
