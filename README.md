@@ -1,16 +1,20 @@
-## Hi there 👋
+<p align="center">
+  <img src="./assets/banner.png" alt="JBallin mascot working in a warm engineering workspace overlooking a city skyline, with Ballin running in a terminal and platform architecture sketches on the wall." width="100%">
+</p>
 
-<!--
-**JBallin/JBallin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build developer tools that make software engineering environments easier to understand, automate, and trust.
 
-Here are some ideas to get you started:
+My main open-source project is **[Ballin Scripts](https://github.com/JBallin/ballin-scripts)**, a TypeScript CLI for backing up dotfiles and keeping macOS development environments current.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ballin is built on a simple idea: local development should be inspectable, repeatable, and safe to evolve, not a pile of invisible state and fragile rituals.
+
+Good tools make the next step obvious.
+
+That's the philosophy I bring to development environments, CLIs, and AI-assisted workflows: less mystery, better context, and more confidence to keep building.
+
+## Focus
+
+- Portable, maintainable development environments
+- Predictable CLIs with readable output and inspectable behavior
+- Practical automation with secure defaults
+- AI-assisted workflows that help engineers understand systems before changing them
