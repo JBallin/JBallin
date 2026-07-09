@@ -4,7 +4,7 @@
 
 I build developer tooling that makes local development environments easier to understand, automate, and trust.
 
-My current open-source project is **[Ballin Scripts](https://github.com/JBallin/ballin-scripts)**, a TypeScript CLI for backing up dotfiles and keeping macOS development environments current.
+My current open-source project is **[Ballin Scripts](https://github.com/JBallin/ballin-scripts)**, a TypeScript CLI for backing up dotfiles and updating macOS development environments.
 
 Ballin Scripts is built on a simple idea: your development environment should be inspectable, repeatable, and safe to evolve — not a pile of untracked state and fragile manual steps.
 
