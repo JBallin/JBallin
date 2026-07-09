@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="JBallin mascot working in a warm engineering workspace overlooking a city skyline, with Ballin running in a terminal and platform architecture sketches on the wall." width="100%">
+  <img src="./assets/banner.png" alt="JBallin mascot working in a warm engineering workspace overlooking a city skyline, with Ballin running in a terminal and platform architecture sketches on the wall.">
 </p>
 
-I build developer tools that make software engineering environments easier to understand, automate, and trust.
+I build developer tools that make local development easier to understand, automate, and trust.
 
 My main open-source project is **[Ballin Scripts](https://github.com/JBallin/ballin-scripts)**, a TypeScript CLI for backing up dotfiles and keeping macOS development environments current.
 
-Ballin is built on a simple idea: local development should be inspectable, repeatable, and safe to evolve, not a pile of invisible state and fragile rituals.
+Ballin is built on a simple idea: your development environment should be inspectable, repeatable, and safe to evolve — not a pile of invisible state and fragile rituals.
 
 Good tools make the next step obvious.
 
