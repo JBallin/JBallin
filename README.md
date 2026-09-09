@@ -1,20 +1,7 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="JBallin mascot working in a warm engineering workspace overlooking a city skyline, with Ballin running in a terminal and platform architecture sketches on the wall.">
+  <img src="./assets/banner.png" alt="JBallin mascot working in a warm engineering workspace overlooking a city skyline.">
 </p>
 
-I build developer tooling that makes local development environments easier to understand, automate, and trust.
+I'm a software architect and engineer who builds developer tools, platforms, and software products.
 
-My current open-source project is **[Ballin Scripts](https://github.com/JBallin/ballin-scripts)**, a TypeScript CLI for backing up dotfiles and updating macOS development environments.
-
-Ballin Scripts is built on a simple idea: your development environment should be inspectable, repeatable, and safe to evolve — not a pile of untracked state and fragile manual steps.
-
-*Good tools make the next step obvious.*
-
-That's the philosophy I bring to development environments, CLIs, and AI-assisted engineering workflows: less mystery, better context, and more confidence to keep building.
-
-## Focus
-
-- Portable, maintainable development environments
-- Predictable CLIs with readable output and inspectable behavior
-- Practical automation with secure defaults
-- AI-assisted engineering workflows that help engineers understand systems before changing them
+My current open-source project is **[Ballin](https://github.com/JBallin/ballin-scripts)** — a TypeScript CLI that backs up development-environment state and automates routine updates on macOS.
