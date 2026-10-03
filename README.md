@@ -4,4 +4,4 @@
 
 I'm a software architect and engineer who builds developer tools, platforms, and software products.
 
-My current open-source project is **[Ballin](https://github.com/JBallin/ballin-scripts)** — a TypeScript CLI that backs up development-environment state and automates routine updates on macOS.
+My open-source projects include **[Ballin](https://github.com/JBallin/ballin-scripts)**, a TypeScript CLI that backs up development-environment state and automates routine updates on macOS, and **[Claude Review Runtime](https://github.com/JBallin/claude-review-runtime)**, a reusable GitHub Actions runtime for Claude-powered pull-request reviews.
